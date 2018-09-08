@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_feed"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Feed" />
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Messages" />
+    <item
+        android:id="@+id/navigation_hallo"
+        android:icon="@drawable/ic_voice_chat_black_24dp"
+        android:title="Hallo" />
+    <item
+        android:id="@+id/navigation_friends"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="Friends" />
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search" />
+</menu>
